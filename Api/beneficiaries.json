@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "fullName": "Aisha Abdukadir Mohamed",
+    "mobile": "615596190",
+    "targetGroup": "Teacher"
+  },
+  {
+    "id": 2,
+    "fullName": "Aisha Ali Hallane",
+    "mobile": "776956774",
+    "targetGroup": "Household"
+  },
+  {
+    "id": 3,
+    "fullName": "Abdirsak Abdullahi Hasan",
+    "mobile": "624567890",
+    "targetGroup": "Principal"
+  },
+  {
+    "id": 4,
+    "fullName": "Sarah Abdullahi Hassan",
+    "mobile": "907654321",
+    "targetGroup": "FHW"
+  },
+  {
+    "id": 5,
+    "fullName": "Mustaf Abuubakar Abdullahi ",
+    "mobile": "907654322",
+    "targetGroup": "FHS"
+  },
+  {
+    "id": 6,
+    "fullName": "Salin Abuubakar Ahmed ",
+    "mobile": "907654322",
+    "targetGroup": "FHS"
+  },
+  {
+    "id": 5,
+    "fullName": "A/man Abdukadir Mohamed ",
+    "mobile": "907654322",
+    "targetGroup": "FHS"
+  },
+  {
+    "id": 8,
+    "fullName": "Salin Abuubakar Ahmed ",
+    "mobile": "907654322",
+    "targetGroup": "FHS"
+  },
+  {
+    "fullName": "Hafsa A/kadir Mohamed",
+    "mobile": "618630475",
+    "targetGroup": "Teacher"
+  },
+  {
+    "fullName": "Safiya",
+    "mobile": "776666690",
+    "targetGroup": "Household"
+  }
+]

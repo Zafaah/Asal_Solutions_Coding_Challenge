@@ -25,7 +25,7 @@ const Contact = () => {
             })
             console.log(respond.data)
          } else {
-            alert("pls try again the number")
+            alert("pls try again the number only accept start(61,62,90,77) and be 9digits")
          }
       } catch (error) {
          console.error(error)
